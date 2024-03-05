@@ -7,7 +7,7 @@ Be able too quickly navigate between often used directories via bash
 
 **Implementation:**
 * Add current directory via ```brb -a```
-* Go to directory via ```brb``` which showed a fuzzy search implemented with ```fzf```
+* Go to directory via ```brb``` which shows a fuzzy search implemented with ```fzf```
 
 **Limitations:**
 * Manually bookmarking directories is burdensome
